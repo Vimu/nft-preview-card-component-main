@@ -34,7 +34,7 @@ main {
 
 .card {
   background-color: hsl(216, 50%, 16%);
-  padding: 1em 1em 1.8em 1em;
+  padding: 1.68em 1.68em 1.8em 1.68em;
   border-radius: 10px;
   display: flex;
   flex-direction: column;
